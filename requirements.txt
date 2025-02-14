@@ -1,0 +1,4 @@
+ray[tune]==2.5.1         # Ensure you pick a version known to support Python 3.11
+scikit-learn>=1.3.0       # Latest stable versions work well with Python 3.11
+numpy>=1.23.0,<2.0.0            # Compatible with Python 3.11
+pandas>=1.5.0             # Compatible with Python 3.11
